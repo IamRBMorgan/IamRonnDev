@@ -1,6 +1,6 @@
 # Dev Portfolio
 
-## Contents
+## Bootstrap Contents
 
 - Link to the Deployment Version
 - [Customization and Editing](#customization-and-editing)
