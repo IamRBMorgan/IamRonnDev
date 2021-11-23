@@ -27,7 +27,6 @@
     - [Footer Section](#footer-section)
     - [Optional Sections](#optional-sections)
 - [Changelog](#changelog)
-- [License](#license)
 
 ## Setup and Configuration
 
